@@ -1,5 +1,23 @@
 .App {
   text-align: center;
+  display:flex;
+  flex-direction: center;
+  margin: 0 auto;
+  align-conent: center;
+  align-items: center;
+  max-width: 50%;
+  flex-direction: column-reverse;
+}
+
+.buttons{
+  padding: 8%;
+}
+.allcards{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  margin: 0 auto;
 }
 .Header {
   color: #443e3e;
